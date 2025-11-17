@@ -11,4 +11,7 @@ manx
 siberian
 norwegianforest
 savannah
-bengal
+Bengal
+ragdoll
+persian
+sphynx
