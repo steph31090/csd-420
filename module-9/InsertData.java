@@ -3,7 +3,7 @@
  * Stephanie Ramos
  * Module 9 Programming Assignment
  * 
- * Purpose: Updated the connection to insert data into my database
+ * Purpose: Updated the connection to insert data into my database.
  */
 
 import java.net.URL;
